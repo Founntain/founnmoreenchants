@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="FounnMoreEnchants:jar">
+    <output-path>X:/SpigotServer/plugins</output-path>
+    <root id="archive" name="FounnMoreEnchants.jar">
+      <element id="module-output" name="FounnMoreEnchants" />
+    </root>
+  </artifact>
+</component>

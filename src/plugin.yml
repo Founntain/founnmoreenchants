@@ -1,0 +1,8 @@
+name: FounnMoreEnchants
+main: de.founntain.founnmoreenchants.FounnMoreEnchants
+version: 1.0
+api-version: 1.16
+commands:
+   fmeinfo:
+      description: Info about this plugin
+      usage: /fmeinfo
