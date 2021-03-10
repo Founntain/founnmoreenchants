@@ -1,4 +1,4 @@
 out
 .metadata
 .idea
-.jar
+*.jar
