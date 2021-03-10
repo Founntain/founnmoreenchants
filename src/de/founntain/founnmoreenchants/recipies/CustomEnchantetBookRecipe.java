@@ -20,7 +20,7 @@ public class CustomEnchantetBookRecipe {
     }
 
     public void createRecipe() {
-        ShapelessRecipe recipe = new ShapelessRecipe(new NamespacedKey(this.plugin, "customEnchantetBooksRecipe"), new ItemStack(Material.ENCHANTED_BOOK));
+        ShapelessRecipe recipe = new ShapelessRecipe(new NamespacedKey(this.plugin, "customEnchantetBookRecipe"), new ItemStack(Material.ENCHANTED_BOOK));
 
         recipe.addIngredient(Material.ENCHANTED_BOOK);
         recipe.addIngredient(Material.ENCHANTED_BOOK);
